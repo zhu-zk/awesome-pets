@@ -7,18 +7,18 @@ A curated list of papers and SecretFlow's tutorials on Privacy-Enhancing Technol
 Cryptography-based techniques
 
 1. [secure Multi-Party Computation (MPC)](papers/mpc.md)
-2. Homomorphic Encryption (HE)
-3.  Functional Encryption (FE)
+2. [Homomorphic Encryption (HE)](papers/he.md)
+3. [Functional Encryption (FE)](papers/fe.md)
 
 Distributed-learning-based techniques
 
-1. Ferderated Learning (FL)
-2. Split Learning (SL)
+1. [Ferderated Learning (FL)](fl.md)
+2. [Split Learning (SL)](sl.md)
 
 Hardware-based solutions
 
-1. Trusted Execution Environment (TEE)
-2. Trusted Platform Module (TPM)
+1. [Trusted Execution Environment (TEE)](tee.md)
+2. [Trusted Platform Module (TPM)](tpm.md)
 
 Adversarial machine learning
 
