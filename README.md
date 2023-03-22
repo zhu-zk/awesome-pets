@@ -2,6 +2,8 @@
 
 A curated list of papers and SecretFlow's tutorials on Privacy-Enhancing Technologies (PETs). 
 
+Please feel free to open a pull request.
+
 ## Papers
 
 ### Basic Tools
@@ -46,3 +48,7 @@ Adversarial machine learning
 1. [公众号文章](tutorials/wechat.md)
 2. [B站视频](tutorials/bilibili.md) 
 
+
+## Contributes
+
+Please read the contribution guidelines first.
