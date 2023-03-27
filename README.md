@@ -1,6 +1,8 @@
 # awesome-pets
 
-A curated list of papers and SecretFlow's tutorials on Privacy-Enhancing Technologies (PETs). 
+A curated list of papers and SecretFlow's tutorials on Privacy-Enhancing Technologies (PETs). There are many ways of categorising different PETs technologies, and we decide to categorise papers into two categories:
+1. Basic Tools: aims for generic scnarios
+2. Applications: aims for specific scenarios
 
 Please feel free to open a pull request.
 
@@ -27,27 +29,25 @@ Hardware-based solutions
 
 ### Applications
 
-Privacy-Preserving Machine Learning with Proofs 
+[ML] Privacy-Preserving Machine Learning with Proofs 
 
 1. [PPML + DP](papers/ppml_dp.md)
 2. [PPML + Crypto](papers/ppml_crypto.md)
 
-Privacy-Preserving Machine Learning without Proofs
+[ML] Privacy-Preserving Machine Learning without Proofs
 
 1. [Ferderated Learning (FL)](papers/fl.md)
 2. [Split Learning (SL)](papers/sl.md)
 
-Adversarial machine learning
+[ML] Adversarial machine learning
 
 1. [Poisoning attack](papers/poison.md)
+2. Membership Inference Attack
+3. Feature Inference Attack
+4. Label Inference Attack
+5. Reconstruction Attacks
 
-
-
-## SecretFlow's tutorial on Pets technology
-
-1. [公众号文章](tutorials/wechat.md)
-2. [B站视频](tutorials/bilibili.md) 
-
+#### Others
 
 ## Contributes
 
