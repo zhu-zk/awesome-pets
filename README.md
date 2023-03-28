@@ -25,15 +25,25 @@ Hardware-based solutions
 
 ### Applications of PETs
 
+Private Set/Database Operations
+
+1. [Private Set Intersection (PSI)](papers/psi.md)
+2. [Private Set Union (PSU)](papers/psu.md)
+3. [Private Information Retrival (PIR)](papers/pir.md)
+
 Protecting training/inference data
 
-2. [PPML based on Crypto](papers/ppml_crypto.md)
-3. [Ferderated Learning (FL)](papers/fl.md)
-4. [Split Learning (SL)](papers/sl.md)
+1. [PPML based on Crypto](papers/ppml_crypto.md)
+2. [Ferderated Learning (FL)](papers/fl.md)
+3. [Split Learning (SL)](papers/sl.md)
 
 Attacks on machine learning system
 
 1. [Poisoning attack](papers/poison.md)
+
+Multimedia Privacy and Security
+
+1. TODO
 
 ## Contributes
 

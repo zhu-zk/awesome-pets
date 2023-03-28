@@ -26,7 +26,7 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 
 - SoftSpokenOT: Quieter OT Extension from Small-Field Silent VOLE in the Minicrypt Model  
   *Lawrence Roy*  
-  Crypto 2022, [publisher](https://www.iacr.org/cryptodb//data/paper.php?pubkey=32258), Roy22
+  Crypto 2022, [eprint](https://eprint.iacr.org/2022/192), Roy22
 
 - Silver: Silent VOLE and Oblivious Transfer from Hardness of Decoding Structured LDPC Codes  
   *Geoffroy Couteau, Peter Rindal, Srinivasan Raghuraman*  
