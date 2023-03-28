@@ -1,6 +1,6 @@
 # Secure Multi-Party Computation (MPC)
 
-![](https://badgen.net/badge/:update-to/:Mar-2023/red) ![](https://badgen.net/badge/:papers/:28/blue) 
+![](https://badgen.net/badge/:update-to/:Mar-2023/red) ![](https://badgen.net/badge/:papers/:42/blue) 
 
 > "The design of scure protocols that implement arbitrarily desired functionalities is a major part of mordern cryptography."
 > -- Foundation of Cryptography, Volumn 2, Oded Goldreich. 
@@ -14,11 +14,10 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 - [offline-techniques](#offline-techniques)
   * [ot](#oblivious-transfer) : oblivious transfer
   * [vole](#vector-oblivious-linear-evaluation): (subfield) (vector) oblivious linear evaluation
-  * [oprf](#oblivious-pseudo-random-function): oblivious pseudorandom function
   * [pcg](#pseudorandom-correlation-generator): pseudorandom correlation generator
 - [online-techniques](#online-techniques)
-  * [secret sharing](#secret-sharing)
-  * [garbled-circuit](#garbled-circuit)
+  * [semi-honest secret sharing](#semi-honest-secret-sharing)
+  * [malicious secret sharing](#malicious-secret-sharing)
 
 ## Offline Techniques
 
@@ -118,7 +117,6 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
   *Moni Naor, Benny Pinkas*  
   STOC 1999, [eprint](https://dl.acm.org/doi/pdf/10.1145/301250.301312), NP99
   
-### Oblivious Pseudo-Random Function
 
 ### Pseudorandom-Correlation Generator
 
@@ -128,7 +126,27 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 
 ## Online Techniques
 
-### Secret Sharing
+### Semi-Honest Secret Sharing
+
+- ABY2.0: Improved Mixed-Protocol Secure Two-Party Computation  
+  *Arpita Patra, Thomas Schneider, Ajith Suresh, Hossein Yalame*  
+  Usenix Security 2021, [eprint](https://eprint.iacr.org/2020/1225), PSSY21
+
+- MP-SPDZ: A Versatile Framework for Multi-Party Computation  
+  *Marcel Keller*  
+  CCS 2020, [eprint](https://eprint.iacr.org/2020/521), Kel20
+
+- ABY3: A Mixed Protocol Framework for Machine Learning  
+  *Payman Mohassel, Peter Rindal*  
+  CCS 2018, [eprint](https://eprint.iacr.org/2018/403), MR18
+
+- ABY - A Framework for Efficient Mixed-Protocol Secure Two-Party Computation  
+  *Daniel Demmler, Thomas Schneider, Michael Zohner*  
+  NDSS 2017, [eprint](https://www.ndss-symposium.org/wp-content/uploads/2017/09/08_2_1.pdf), DSZ17
+
+- Secure Computation with Fixed-Point Numbers  
+  *Octavian Catrina, Amitabh Saxena*  
+  FC 2010, [eprint](https://ifca.ai/pub/fc10/31_47.pdf), CS10
 
 - The Round Complexity of Secure Protocols  
   *Donald Beaver, Silvio Micali, Phillip Rogaway*  
@@ -146,6 +164,40 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
   *Andrew Chi-Chih Yao*  
   FOCS 1986, [eprint](https://ieeexplore.ieee.org/document/4568207), Yao86
 
-### Garbled Circuit
+### Malicious Secret Sharing
 
+- MHz2k: MPC from HE over Z2k with New Packing, Simpler Reshare, and Better ZKP  
+  *Jung Hee Cheon, Dongwoo Kim, and Keewoo Lee*  
+  Crypto 2021, [eprint](https://eprint.iacr.org/2021/1383), CKL21
 
+- High-Performance Multi-party Computation for Binary Circuits Based on Oblivious Transfer  
+  *Sai Sheshank Burra, Enrique Larraia, Jesper Buus Nielsen, Peter Sebastian Nordholt, Claudio Orlandi, Emmanuela Orsini, Peter Scholl, Nigel P. Smart*  
+  JCryptpo 2021, [eprint](https://eprint.iacr.org/2015/472), BLNN+21
+
+- Overdrive2k: Efficient Secure MPC over Z2k from Somewhat Homomorphic Encryption  
+  *Emmanuela Orsini, Nigel P. Smart, Frederik Vercauteren*  
+  CT-RSA 2020, [eprint](https://eprint.iacr.org/2019/153), OSV20
+
+- MonZ2k: Fast Maliciously Secure Two Party Computation on Z2k  
+  *Dario Catalano, Mario Di Raimondo, Dario Fiore, and Irene Giacomelli*  
+  PKC 2020, [eprint](https://eprint.iacr.org/2019/211), CRFG20
+
+- Covert Security with Public Verifiability: Faster, Leaner, and Simpler  
+  *Cheng Hong, Jonathan Katz, Vladimir Kolesnikov, Wen-jie Lu, Xiao Wang*  
+  EuroCrypt 2019, [eprint](https://eprint.iacr.org/2018/1108), HKKL+19
+
+- Two-Thirds Honest-Majority MPC for Malicious Adversaries at Almost the Cost of Semi-Honest  
+  *Jun Furukawa, Yehuda Lindell*  
+  CCS 2019, [eprint](https://eprint.iacr.org/2019/658), FL19
+
+- Communication Lower Bounds for Statistically Secure MPC, With or Without Preprocessing  
+  *Ivan Damgård, Kasper Green Larsen, Jesper Buus Nielsen*  
+  Crypto 2019, [eprint](https://eprint.iacr.org/2019/220), DLN19
+
+- New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning  
+  *Ivan Damgård, Daniel Escudero, Tore Frederiksen, Marcel Keller, Peter Scholl, Nikolaj Volgushev*  
+  SP 2019, [eprint](https://eprint.iacr.org/2019/599), DEFK+19
+
+- Adaptively Secure MPC with Sublinear Communication Complexity  
+  *Ran Cohen, Abhi Shelat, Daniel Wichs*  
+  Crypto 2019, [eprint](https://eprint.iacr.org/2018/1161), CSW19 
