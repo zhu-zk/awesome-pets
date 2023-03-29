@@ -2,6 +2,8 @@
 
 ![](https://badgen.net/badge/:update-to/:Mar-2023/red) ![](https://badgen.net/badge/:papers/:23/blue) 
 
+Private set intersection (PSI) is a special case of multiparty computation, in which each party has a set of items and the goal is to learn the intersection of those sets while revealing nothing else about those sets.
+
 Note: one paper may be included in several categories (e.g. a paper may introduce a new protocol for both OT and VOLE, we decide to include it in both categories).
 
 ## Table of Contents
