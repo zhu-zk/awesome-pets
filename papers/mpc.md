@@ -11,15 +11,13 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 
 ## Table of Contents
 
-- [Secure Multi-Party Computation (MPC)](#secure-multi-party-computation-mpc)
-  - [Table of Contents](#table-of-contents)
-  - [Offline Techniques](#offline-techniques)
-    - [Oblivious transfer](#oblivious-transfer)
-    - [vector Oblivious Linear Evaluation](#vector-oblivious-linear-evaluation)
-    - [Pseudorandom-Correlation Generator](#pseudorandom-correlation-generator)
-  - [Online Techniques](#online-techniques)
-    - [Semi-Honest Secret Sharing](#semi-honest-secret-sharing)
-    - [Malicious Secret Sharing](#malicious-secret-sharing)
+- [offline-techniques](#offline-techniques)
+  * [ot](#oblivious-transfer) : oblivious transfer
+  * [vole](#vector-oblivious-linear-evaluation): (subfield) (vector) oblivious linear evaluation
+  * [pcg](#pseudorandom-correlation-generator): pseudorandom correlation generator
+- [online-techniques](#online-techniques)
+  * [semi-honest secret sharing](#semi-honest-secret-sharing)
+  * [malicious secret sharing](#malicious-secret-sharing)
 
 ## Offline Techniques
 
