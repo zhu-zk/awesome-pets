@@ -16,9 +16,9 @@ Existing works can be divided into different categories from different aspects. 
 
 An overview of existing works is illustrated in the table below.
 
-|     |      PPML      | Capability |          | Threat Model |                        |     Techniques     |
-|:---:|:--------------:|:----------:|:--------:|:------------:|:----------------------:|:------------------:|
-|     |                |  Inference | Training |  Semi-honest |        Malicious       |                    |
+|     |      PPML      | Capability |          | Threat Model |                        |     Techniques    |
+|:---:|:--------------:|:----------:|:--------:|:------------:|:----------------------:|:-----------------:|
+|     |                |  Inference | Training |  Semi-honest |        Malicious       |                   |
 | 2PC |       ABY      |  &#10004;  | &#10004; |   &#10004;   |                        |    OT & GC & SS   |
 | 2PC |    SecureML    |  &#10004;  | &#10004; |   &#10004;   |                        |    HE & GC & SS   |
 | 2PC |     MiniONN    |  &#10004;  |          |   &#10004;   |                        |    HE & GC & SS   |
@@ -29,41 +29,42 @@ An overview of existing works is illustrated in the table below.
 | 2PC |      MP2ML     |  &#10004;  |          |   &#10004;   |                        |    HE & GC & SS   |
 | 2PC |   CrypTFlow2   |  &#10004;  |          |   &#10004;   |                        |    HE & OT & SS   |
 | 2PC |     Delphi     |  &#10004;  |          |   &#10004;   |                        |    HE & GC & SS   |
-| 2PC |      GALA      |  &#10004;  |          |   &#10004;   |                        |       HE & GC      |
+| 2PC |      GALA      |  &#10004;  |          |   &#10004;   |                        |      HE & GC      |
 | 2PC |   QuantizedNN  |  &#10004;  |          |   &#10004;   |          Abort         |    HE & OT & SS   |
 | 2PC |     GForce     |  &#10004;  |          |   &#10004;   |                        |      HE & SS      |
 | 2PC |     ABY 2.0    |  &#10004;  | &#10004; |   &#10004;   |                        |    OT & GC & SS   |
 | 2PC |      MUSE      |  &#10004;  |          |   &#10004;   |    Malicious clients   |    HE & GC & SS   |
-| 2PC |      SIRNN     |  &#10004;  |          |   &#10004;   |                        |       SS & OT      |
-| 2PC |    SecFloat    |  &#10004;  | &#10004; |   &#10004;   |                        |       SS & OT      |
-| 2PC |     Cheetah    |  &#10004;  |          |   &#10004;   |                        |    HE & SS & OT    |
-| 2PC |    PRNNInfer   |  &#10004;  |          |   &#10004;   |                        |         HE         |
+| 2PC |      SIRNN     |  &#10004;  |          |   &#10004;   |                        |      SS & OT      |
+| 2PC |    SecFloat    |  &#10004;  | &#10004; |   &#10004;   |                        |      SS & OT      |
+| 2PC |     Cheetah    |  &#10004;  |          |   &#10004;   |                        |    HE & SS & OT   |
+| 2PC |    PRNNInfer   |  &#10004;  |          |   &#10004;   |                        |         HE        |
 | 2PC |     AriaNN     |  &#10004;  | &#10004; |   &#10004;   |                        |      FSS & SS     |
-| 2PC |      Pika      |  &#10004;  | &#10004; |   &#10004;   |                        |         FSS        |
+| 2PC |      Pika      |  &#10004;  | &#10004; |   &#10004;   |                        |        FSS        |
 | 2PC |      LLAMA     |  &#10004;  |          |   &#10004;   |                        |      FSS & SS     |
-| 2PC |     Fusion     |  &#10004;  |          |   &#10004;   |    Malicious servers   |      SS & ZKP      |
+| 2PC |     Fusion     |  &#10004;  |          |   &#10004;   |    Malicious servers   |      SS & ZKP     |
 | 2PC |      SIMC      |  &#10004;  |          |   &#10004;   |    Malicious clients   | SS & HE & OT & GC |
-|     |                |            |          |              |                        |                    |
+|     |                |            |          |              |                        |                   |
 | 3PC |    Chameleon   |  &#10004;  |          |   &#10004;   |                        |      GC & SS      |
 | 3PC |      ABY3      |  &#10004;  | &#10004; |   &#10004;   |                        |      GC & SS      |
-| 3PC |      ASTRA     |  &#10004;  | &#10004; |   &#10004;   |          Abort         |      SS            |
+| 3PC |      ASTRA     |  &#10004;  | &#10004; |   &#10004;   |          Abort         |         SS        |
 | 3PC |    SecureNN    |  &#10004;  | &#10004; |   &#10004;   |                        |         SS        |
-| 3PC |      BLAZE     |  &#10004;  | &#10004; |   &#10004;   |        Fairness        |      SS     |
+| 3PC |      BLAZE     |  &#10004;  | &#10004; |   &#10004;   |        Fairness        |         SS        |
 | 3PC |   QuantizedNN  |  &#10004;  |          |   &#10004;   |          Abort         |         SS        |
 | 3PC |    CrypTFlow   |  &#10004;  |          |   &#10004;   |                        |         SS        |
-| 3PC |      SWIFT     |  &#10004;  |          |   &#10004;   |           GOD          |      SS     |
+| 3PC |      SWIFT     |  &#10004;  |          |   &#10004;   |           GOD          |         SS        |
 | 3PC |     Falcon     |  &#10004;  | &#10004; |   &#10004;   |          Abort         |         SS        |
 | 3PC |    CryptGPU    |  &#10004;  | &#10004; |   &#10004;   |                        |         SS        |
 | 3PC | SecQuantizedNN |  &#10004;  | &#10004; |   &#10004;   |                        |         SS        |
 | 3PC |     Piranha    |  &#10004;  | &#10004; |   &#10004;   |                        |         SS        |
-| 3PC |      pMPL      |  &#10004;  | &#10004; |   &#10004;   | GOD (privileged party) |         SS         |
-| 3PC |       PEA      |  &#10004;  | &#10004; |   &#10004;   |                        |       SS & DP      |
-|     |                |            |          |              |                        |                    |
-| 4PC |      FLASH     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |      SS     |
-| 4PC |      SWIFT     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |      SS     |
-| 4PC |     Trident    |  &#10004;  | &#10004; |   &#10004;   |        Fairness        |   GC & SS   |
-| 4PC |     Tetrad     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |   GC & SS   |
-|     |                |            |          |              |                        |                    |
+| 3PC |      pMPL      |  &#10004;  | &#10004; |   &#10004;   | GOD (privileged party) |         SS        |
+| 3PC |       PEA      |  &#10004;  | &#10004; |   &#10004;   |                        |      SS & DP      |
+|     |                |            |          |              |                        |                   |
+| 4PC |      FLASH     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |         SS        |
+| 4PC |      SWIFT     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |         SS        |
+| 4PC |     Trident    |  &#10004;  | &#10004; |   &#10004;   |        Fairness        |      GC & SS      |
+| 4PC | Fantastic Four |  &#10004;  | &#10004; |   &#10004;   |           GOD          |         SS        |
+| 4PC |     Tetrad     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |      GC & SS      |
+|     |                |            |          |              |                        |                   |
 
 > Note: one paper may be included in several categories (e.g. a paper that supports training naturally supports inference).
 
@@ -217,7 +218,10 @@ An overview of existing works is illustrated in the table below.
 ### <a id='4pc-train'>Secure Training</a>
 - Tetrad: Actively Secure 4PC for Secure Training and Inference.    
     *Nishat Koti, Arpita Patra, Rahul Rachuri, Ajith Suresh*    
-    NDSS 2022. [eprint](https://eprint.iacr.org/2021/755)
+    NDSS 2022, [eprint](https://eprint.iacr.org/2021/755)
+- Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security.  
+    *Anders P. K. Dalskov, Daniel Escudero, Marcel Keller*  
+    USENIX 2021, [eprint](https://eprint.iacr.org/2020/1330)
 - Trident: Efficient 4PC Framework for Privacy Preserving Machine Learning.     
     *Harsh Chaudhari, Rahul Rachuri, Ajith Suresh*  
     NDSS 2020, [eprint](http://arxiv.org/abs/1912.02631)
