@@ -77,8 +77,8 @@ Since its invention in 1986, ZKP systems, more and more,  become building blocks
   *Louis C. Guillou, and Jean-Jacques Quisquater*  
   EUROCRYPT 1988, [paper](http://link.springer.com/10.1007/3-540-45961-8_11), GQ88
 
-- Proofs of Partial Knowledge and Simplified Design of Witness Hiding Protocols
-  *Ronald Cramer, Ivan Damgård, and Berry Schoenmakers*
+- Proofs of Partial Knowledge and Simplified Design of Witness Hiding Protocols  
+  *Ronald Cramer, Ivan Damgård, and Berry Schoenmakers*  
   CRYPTO 1994, [paper](https://link.springer.com/chapter/10.1007/3-540-48658-5_19), CDS94
 
 - Proof Systems for General Statements about Discrete Logarithms  
@@ -105,7 +105,7 @@ Since its invention in 1986, ZKP systems, more and more,  become building blocks
   *Gongxian Zeng, Junzuo Lai, Zhengan Huang, Yu Wang, and Zhiming Zheng*  
   ASIACRYPT 2022, [paper](https://eprint.iacr.org/2022/1569), ZLH+22
 
-- Revisiting BBS Signatures 
+- Revisiting BBS Signatures  
   *Stefano Tessaro and Chenzhi Zhu*  
   EUROCRYPT 2023, [paper](https://eprint.iacr.org/2023/275), TZ23
 
