@@ -80,7 +80,7 @@ Since its invention in 1986, ZKP systems, more and more,  become building blocks
   *Ronald Cramer, Ivan Damgård, and Berry Schoenmakers*
   CRYPTO 1994, [paper](https://link.springer.com/chapter/10.1007/3-540-48658-5_19), CDS94
 
-- Proof Systems for General Statements about Discrete Logarithms
+- Proof Systems for General Statements about Discrete Logarithms  
   *Jan Camenisch, and Markus Stadler*
   ETH Zurich Report 1997, [paper](https://www.research-collection.ethz.ch/handle/20.500.11850/69316), CS97
 
