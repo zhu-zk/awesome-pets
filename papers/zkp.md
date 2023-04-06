@@ -4,6 +4,7 @@
 
 
 > **"We are currently experiencing a Cambrian Explosion in the field of cryptographic proofs of computational integrity (CI), a subset of which include zero knowledge proofs**. While a couple of years ago there were about 1–3 new systems a year, the rate has picked up so much that today we are seeing this same amount monthly, if not weekly."  
+> 
 > -- ELI BEN-SASSON, [A Cambrian Explosion of Crypto Proofs](https://nakamoto.com/cambrian-explosion-of-crypto-proofs/)
 
 Since its invention in 1986, ZKP systems, more and more,  become building blocks for many other important domains, such as blockchains, Anonymous Credentials (in Web3), authentication systems, etc. In the following, we will mainly elaborate on the pratical ZKPs and roughly divide them into two categories: specific purpose ZKP and general purpose ZKP, in which their differences mainly come from the ability to prove different statements.
