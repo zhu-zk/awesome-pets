@@ -19,50 +19,50 @@ An overview of existing works is illustrated in the table below.
 |     |      PPML      | Capability |          | Threat Model |                        |     Techniques     |
 |:---:|:--------------:|:----------:|:--------:|:------------:|:----------------------:|:------------------:|
 |     |                |  Inference | Training |  Semi-honest |        Malicious       |                    |
-| 2PC |       ABY      |  &#10004;  | &#10004; |   &#10004;   |                        |    OT & GC & ASS   |
-| 2PC |    SecureML    |  &#10004;  | &#10004; |   &#10004;   |                        |    HE & GC & ASS   |
-| 2PC |     MiniONN    |  &#10004;  |          |   &#10004;   |                        |    HE & GC & ASS   |
-| 2PC |     GAZELLE    |  &#10004;  |          |   &#10004;   |                        |    HE & GC & ASS   |
-| 2PC |      EzPC      |  &#10004;  |          |   &#10004;   |                        |      GC & ASS      |
-| 2PC |      XONN      |  &#10004;  |          |   &#10004;   |                        |      GC & ASS      |
-| 2PC |    QUOTIENT    |  &#10004;  | &#10004; |   &#10004;   |                        |    OT & GC & ASS   |
-| 2PC |      MP2ML     |  &#10004;  |          |   &#10004;   |                        |    HE & GC & ASS   |
-| 2PC |   CrypTFlow2   |  &#10004;  |          |   &#10004;   |                        |    HE & OT & ASS   |
-| 2PC |     Delphi     |  &#10004;  |          |   &#10004;   |                        |    HE & GC & ASS   |
+| 2PC |       ABY      |  &#10004;  | &#10004; |   &#10004;   |                        |    OT & GC & SS   |
+| 2PC |    SecureML    |  &#10004;  | &#10004; |   &#10004;   |                        |    HE & GC & SS   |
+| 2PC |     MiniONN    |  &#10004;  |          |   &#10004;   |                        |    HE & GC & SS   |
+| 2PC |     GAZELLE    |  &#10004;  |          |   &#10004;   |                        |    HE & GC & SS   |
+| 2PC |      EzPC      |  &#10004;  |          |   &#10004;   |                        |      GC & SS      |
+| 2PC |      XONN      |  &#10004;  |          |   &#10004;   |                        |      GC & SS      |
+| 2PC |    QUOTIENT    |  &#10004;  | &#10004; |   &#10004;   |                        |    OT & GC & SS   |
+| 2PC |      MP2ML     |  &#10004;  |          |   &#10004;   |                        |    HE & GC & SS   |
+| 2PC |   CrypTFlow2   |  &#10004;  |          |   &#10004;   |                        |    HE & OT & SS   |
+| 2PC |     Delphi     |  &#10004;  |          |   &#10004;   |                        |    HE & GC & SS   |
 | 2PC |      GALA      |  &#10004;  |          |   &#10004;   |                        |       HE & GC      |
-| 2PC |   QuantizedNN  |  &#10004;  |          |   &#10004;   |          Abort         |    HE & OT & ASS   |
-| 2PC |     GForce     |  &#10004;  |          |   &#10004;   |                        |      HE & ASS      |
-| 2PC |     ABY 2.0    |  &#10004;  | &#10004; |   &#10004;   |                        |    OT & GC & ASS   |
-| 2PC |      MUSE      |  &#10004;  |          |   &#10004;   |    Malicious clients   |    HE & GC & ASS   |
+| 2PC |   QuantizedNN  |  &#10004;  |          |   &#10004;   |          Abort         |    HE & OT & SS   |
+| 2PC |     GForce     |  &#10004;  |          |   &#10004;   |                        |      HE & SS      |
+| 2PC |     ABY 2.0    |  &#10004;  | &#10004; |   &#10004;   |                        |    OT & GC & SS   |
+| 2PC |      MUSE      |  &#10004;  |          |   &#10004;   |    Malicious clients   |    HE & GC & SS   |
 | 2PC |      SIRNN     |  &#10004;  |          |   &#10004;   |                        |       SS & OT      |
 | 2PC |    SecFloat    |  &#10004;  | &#10004; |   &#10004;   |                        |       SS & OT      |
 | 2PC |     Cheetah    |  &#10004;  |          |   &#10004;   |                        |    HE & SS & OT    |
 | 2PC |    PRNNInfer   |  &#10004;  |          |   &#10004;   |                        |         HE         |
-| 2PC |     AriaNN     |  &#10004;  | &#10004; |   &#10004;   |                        |      FSS & ASS     |
+| 2PC |     AriaNN     |  &#10004;  | &#10004; |   &#10004;   |                        |      FSS & SS     |
 | 2PC |      Pika      |  &#10004;  | &#10004; |   &#10004;   |                        |         FSS        |
-| 2PC |      LLAMA     |  &#10004;  |          |   &#10004;   |                        |      FSS & ASS     |
+| 2PC |      LLAMA     |  &#10004;  |          |   &#10004;   |                        |      FSS & SS     |
 | 2PC |     Fusion     |  &#10004;  |          |   &#10004;   |    Malicious servers   |      SS & ZKP      |
-| 2PC |      SIMC      |  &#10004;  |          |   &#10004;   |    Malicious clients   | ASS & HE & OT & GC |
+| 2PC |      SIMC      |  &#10004;  |          |   &#10004;   |    Malicious clients   | SS & HE & OT & GC |
 |     |                |            |          |              |                        |                    |
-| 3PC |    Chameleon   |  &#10004;  |          |   &#10004;   |                        |      GC & ASS      |
-| 3PC |      ABY3      |  &#10004;  | &#10004; |   &#10004;   |                        |      GC & ASS      |
-| 3PC |      ASTRA     |  &#10004;  | &#10004; |   &#10004;   |          Abort         |      ASS & RSS     |
-| 3PC |    SecureNN    |  &#10004;  | &#10004; |   &#10004;   |                        |         ASS        |
-| 3PC |      BLAZE     |  &#10004;  | &#10004; |   &#10004;   |        Fairness        |      ASS & RSS     |
-| 3PC |   QuantizedNN  |  &#10004;  |          |   &#10004;   |          Abort         |         RSS        |
-| 3PC |    CrypTFlow   |  &#10004;  |          |   &#10004;   |                        |         ASS        |
-| 3PC |      SWIFT     |  &#10004;  |          |   &#10004;   |           GOD          |      ASS & RSS     |
-| 3PC |     Falcon     |  &#10004;  | &#10004; |   &#10004;   |          Abort         |         RSS        |
-| 3PC |    CryptGPU    |  &#10004;  | &#10004; |   &#10004;   |                        |         RSS        |
-| 3PC | SecQuantizedNN |  &#10004;  | &#10004; |   &#10004;   |                        |         RSS        |
-| 3PC |     Piranha    |  &#10004;  | &#10004; |   &#10004;   |                        |         RSS        |
+| 3PC |    Chameleon   |  &#10004;  |          |   &#10004;   |                        |      GC & SS      |
+| 3PC |      ABY3      |  &#10004;  | &#10004; |   &#10004;   |                        |      GC & SS      |
+| 3PC |      ASTRA     |  &#10004;  | &#10004; |   &#10004;   |          Abort         |      SS            |
+| 3PC |    SecureNN    |  &#10004;  | &#10004; |   &#10004;   |                        |         SS        |
+| 3PC |      BLAZE     |  &#10004;  | &#10004; |   &#10004;   |        Fairness        |      SS     |
+| 3PC |   QuantizedNN  |  &#10004;  |          |   &#10004;   |          Abort         |         SS        |
+| 3PC |    CrypTFlow   |  &#10004;  |          |   &#10004;   |                        |         SS        |
+| 3PC |      SWIFT     |  &#10004;  |          |   &#10004;   |           GOD          |      SS     |
+| 3PC |     Falcon     |  &#10004;  | &#10004; |   &#10004;   |          Abort         |         SS        |
+| 3PC |    CryptGPU    |  &#10004;  | &#10004; |   &#10004;   |                        |         SS        |
+| 3PC | SecQuantizedNN |  &#10004;  | &#10004; |   &#10004;   |                        |         SS        |
+| 3PC |     Piranha    |  &#10004;  | &#10004; |   &#10004;   |                        |         SS        |
 | 3PC |      pMPL      |  &#10004;  | &#10004; |   &#10004;   | GOD (privileged party) |         SS         |
 | 3PC |       PEA      |  &#10004;  | &#10004; |   &#10004;   |                        |       SS & DP      |
 |     |                |            |          |              |                        |                    |
-| 4PC |      FLASH     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |      ASS & RSS     |
-| 4PC |      SWIFT     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |      ASS & RSS     |
-| 4PC |     Trident    |  &#10004;  | &#10004; |   &#10004;   |        Fairness        |   GC & ASS & RSS   |
-| 4PC |     Tetrad     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |   GC & ASS & RSS   |
+| 4PC |      FLASH     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |      SS     |
+| 4PC |      SWIFT     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |      SS     |
+| 4PC |     Trident    |  &#10004;  | &#10004; |   &#10004;   |        Fairness        |   GC & SS   |
+| 4PC |     Tetrad     |  &#10004;  | &#10004; |   &#10004;   |           GOD          |   GC & SS   |
 |     |                |            |          |              |                        |                    |
 
 > Note: one paper may be included in several categories (e.g. a paper that supports training naturally supports inference).
@@ -156,13 +156,6 @@ An overview of existing works is illustrated in the table below.
     *Daniel Demmler, Thomas Schneider, Michael Zohner*  
     NDSS 2015, [eprint](https://www.ndss-symposium.org/ndss2015/aby---framework-efficient-mixed-protocol-secure-two-party-computation)
 
-
-- SecureML: A System for Scalable Privacy-Preserving Machine Learning   
-  *Payman Mohassel, Yupeng Zhang*   
-  S&P 2017, [eprint](http://eprint.iacr.org/2017/396), MZ17
-- SoftSpokenOT: Quieter OT Extension from Small-Field Silent VOLE in the Minicrypt Model  
-  *Lawrence Roy*  
-  Crypto 2022, [eprint](https://eprint.iacr.org/2022/192), Roy22
 
 ## Three-party Computation (3PC)
 ### <a id='3pc-infer'>Secure Inference</a>
