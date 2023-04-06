@@ -65,8 +65,6 @@ Since its invention in 1986, ZKP systems, more and more,  become building blocks
 
 ## Specific ZKP
 
-<!-- ZKP研究早期，由于通用ZKP的复杂性，人们对其实际应用几乎不抱期待。而特定ZKP的高效性——虽然表达能力（证明能力）有很大的局限——带来的实际应用能力，也能够应付许多实际生产场景，最典型是认证场景。 -->
-
 ### Traditional & simple relations (over logarithm)
 
 - Efficient Identification and Signatures for Smart Cards  
