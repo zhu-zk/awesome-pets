@@ -1,5 +1,9 @@
 # Differential Privacy (DP)
 
+
+![](https://badgen.net/badge/:papers/:22/blue) 
+
+
 ## Table of Contents
 
 - [fundamental-principles](#fundamental-principles)
@@ -61,7 +65,7 @@
   Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing. 2018.
 
 
-  ### Local Differential Privacy
+### Local Differential Privacy
   
 - Chen, Rui, et al. 
   [Differentially private transit data publication: a case study on the montreal transportation system.](https://dl.acm.org/doi/10.1145/2339530.2339564) 
