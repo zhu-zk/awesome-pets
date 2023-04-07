@@ -11,9 +11,7 @@ Please feel free to open a pull request.
 Cryptography-based techniques
 
 1. [Secure Multi-Party Computation (MPC)](papers/mpc.md) 
-2. [Homomorphic Encryption (HE)](papers/he.md)
-3. [Functional Encryption (FE)](papers/fe.md)
-4. [Zero-Knowledge Proof (ZKP)](papers/zkp.md)
+2. [Zero-Knowledge Proof (ZKP)](papers/zkp.md)
 
 Anonymity-related techniques
 
@@ -28,8 +26,8 @@ Hardware-based solutions
 Private Set/Database Operations
 
 1. [Private Set Intersection (PSI)](papers/psi.md)
-2. [Private Set Union (PSU)](papers/psu.md)
-3. [Private Information Retrival (PIR)](papers/pir.md)
+<!-- 2. [Private Set Union (PSU)](papers/psu.md) -->
+<!-- 3. [Private Information Retrival (PIR)](papers/pir.md) -->
 
 Protecting training/inference data
 
