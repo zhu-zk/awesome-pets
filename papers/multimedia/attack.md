@@ -24,14 +24,17 @@
   *Jingtao Li, Adnan Siraj Rakin, Xing Chen, Zhezhi He, Deliang Fan, Chaitali Chakrabarti*  
   CVPR 2022, [eprint](https://openaccess.thecvf.com/content/CVPR2022/html/Li_ResSFL_A_Resistance_Transfer_Framework_for_Defending_Model_Inversion_Attack_CVPR_2022_paper.html)  
   
-  Soteria: Provable defense against privacy leakage in federated learning from representation perspective.  
+- Soteria: Provable defense against privacy leakage in federated learning from representation perspective.  
   *Jingwei Sun, Ang Li, Binghui Wang, Huanrui Yang, Hai Li, Yiran Chen*  
   CVPR 2021, [eprint](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.pdf)  
-  Label-Only Membership Inference Attack.  
+- Label-Only Membership Inference Attack.  
   *Christopher A. Choquette-Choo, Florian Tramer, Nicholas Carlini, Nicolas Papernot*  
   ICML 2021, [eprint](http://proceedings.mlr.press/v139/choquette-choo21a/choquette-choo21a.pdf)  
   
-  Bilateral Dependency Optimization: Defending Against Model-inversion Attacks.  
+- Bilateral Dependency Optimization: Defending Against Model-inversion Attacks.  
   *Xiong Peng, Feng Liu, Jingfen Zhang, Long Lan, Junjie Ye, Tongliang Liu, Bo Han*  
   KDD 2022, [eprint](https://arxiv.org/abs/2206.05483)
   
+- Feature inference attack on model predictions in vertical federated learning.  
+  *Xinjian Luo, Yuncheng Wu, Xiaokui Xiao, Beng Chin Ooi*  
+  ICDE 2021, [eprint](https://arxiv.org/abs/2010.10152)
