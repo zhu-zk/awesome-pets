@@ -19,3 +19,11 @@
  - See through gradients: Image batch recovery via gradinversion.  
   *Yin Hongxu, Mallya Arun, Vahdat Arash, Alvarez Jose M, Kautz Jan, Molchanov Pavlo*  
   CVPR 2021, [eprint](https://arxiv.org/pdf/2007.13635.pdf)
+
+- ResSFL: A Resistance Transfer Framework for Defending Model Inversion Attack in Split Federated Learning.  
+  *Jingtao Li, Adnan Siraj Rakin, Xing Chen, Zhezhi He, Deliang Fan, Chaitali Chakrabarti*  
+  CVPR 2022, [eprint](https://openaccess.thecvf.com/content/CVPR2022/html/Li_ResSFL_A_Resistance_Transfer_Framework_for_Defending_Model_Inversion_Attack_CVPR_2022_paper.html)  
+  
+  Soteria: Provable defense against privacy leakage in federated learning from representation perspective.  
+  *Jingwei Sun, Ang Li, Binghui Wang, Huanrui Yang, Hai Li, Yiran Chen*  
+  CVPR 2021, [eprint](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.pdf)
