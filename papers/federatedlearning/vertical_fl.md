@@ -13,4 +13,3 @@
 - [A Communication-Efficient Collaborative Learning Framework for Distributed Features](https://arxiv.org/pdf/1912.11187.pdf)
 
 - [Asymmetrical Vertical Federated Learning](https://arxiv.org/pdf/2004.07427.pdf)
-Researcher: Tencent Cloud, Libin Wang

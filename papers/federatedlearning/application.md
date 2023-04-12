@@ -201,25 +201,25 @@ Keywords: Split Learning + Sparsification
 
 - [FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/pdf/2102.04925)
 
-[FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks](https://arxiv.org/pdf/2104.07145) 
+- [FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks](https://arxiv.org/pdf/2104.07145) 
 
-[FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search](https://arxiv.org/pdf/2104.04141)
+- [FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search](https://arxiv.org/pdf/2104.04141)
 
-[Cluster-driven Graph Federated Learning over Multiple Domains](https://arxiv.org/pdf/2104.14628)
+- [Cluster-driven Graph Federated Learning over Multiple Domains](https://arxiv.org/pdf/2104.14628)
 
-[FedGL: Federated Graph Learning Framework with Global Self-Supervision](https://arxiv.org/pdf/2105.03170)
+- [FedGL: Federated Graph Learning Framework with Global Self-Supervision](https://arxiv.org/pdf/2105.03170)
 
-[Federated Graph Learning -- A Position Paper](https://arxiv.org/pdf/2105.11099)
+- [Federated Graph Learning -- A Position Paper](https://arxiv.org/pdf/2105.11099)
 
-[SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks](https://arxiv.org/pdf/2106.02743)
+- [SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks](https://arxiv.org/pdf/2106.02743)
 
-[Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://arxiv.org/pdf/2106.05223)
+- [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://arxiv.org/pdf/2106.05223)
 
-[A Vertical Federated Learning Framework for Graph Convolutional Network](https://arxiv.org/pdf/2106.11593)
+- [A Vertical Federated Learning Framework for Graph Convolutional Network](https://arxiv.org/pdf/2106.11593)
 
-[Federated Graph Classification over Non-IID Graphs](https://arxiv.org/pdf/2106.13423)
+- [Federated Graph Classification over Non-IID Graphs](https://arxiv.org/pdf/2106.13423)
 
-[Subgraph Federated Learning with Missing Neighbor Generation](https://arxiv.org/pdf/2106.13430)
+- [Subgraph Federated Learning with Missing Neighbor Generation](https://arxiv.org/pdf/2106.13430)
 
 ### Federated Learning on Knowledge Graphs
 
@@ -232,43 +232,43 @@ Keywords: Split Learning + Sparsification
 
 ### Generative Models (GAN, Bayesian Generative Models, etc)
 
-[Discrete-Time Cox Models](https://arxiv.org/pdf/2006.08997.pdf)
+- [Discrete-Time Cox Models](https://arxiv.org/pdf/2006.08997.pdf)
 
-[Generative Models for Effective ML on Private, Decentralized Datasets. Google. ICLR 2020](https://arxiv.org/pdf/1911.06679.pdf)
+- [Generative Models for Effective ML on Private, Decentralized Datasets. Google. ICLR 2020](https://arxiv.org/pdf/1911.06679.pdf)
 Citation: 8
 
-[MD-GAN: Multi-Discriminator Generative Adversarial Networks for Distributed Datasets. 2018-11-09](https://arxiv.org/pdf/1811.03850.pdf)
+- [MD-GAN: Multi-Discriminator Generative Adversarial Networks for Distributed Datasets. 2018-11-09](https://arxiv.org/pdf/1811.03850.pdf)
 
-[(GAN) Federated Generative Adversarial Learning. 2020-05-07](https://arxiv.org/pdf/2005.03793.pdf)
+- [(GAN) Federated Generative Adversarial Learning. 2020-05-07](https://arxiv.org/pdf/2005.03793.pdf)
 Citation: 0
 
-[Differentially Private Data Generative Models](https://arxiv.org/pdf/1812.02274.pdf)
+- [Differentially Private Data Generative Models](https://arxiv.org/pdf/1812.02274.pdf)
 
-[GRAFFL: Gradient-free Federated Learning of a Bayesian Generative Model](https://arxiv.org/pdf/1910.08489.pdf)
+- [GRAFFL: Gradient-free Federated Learning of a Bayesian Generative Model](https://arxiv.org/pdf/1910.08489.pdf)
 
 ### VAE (Variational Autoencoder)
 
-[(VAE) An On-Device Federated Learning Approach for Cooperative Anomaly Detection](https://arxiv.org/pdf/2002.12301.pdf)
+- [(VAE) An On-Device Federated Learning Approach for Cooperative Anomaly Detection](https://arxiv.org/pdf/2002.12301.pdf)
 
 ### MF (Matrix Factorization)
 
-[Secure Federated Matrix Factorization](https://arxiv.org/pdf/1906.05108.pdf)
+- [Secure Federated Matrix Factorization](https://arxiv.org/pdf/1906.05108.pdf)
 
-[(Clustering) Federated Clustering via Matrix Factorization Models: From Model Averaging to Gradient Sharing](https://arxiv.org/pdf/2002.04930.pdf)
+- [(Clustering) Federated Clustering via Matrix Factorization Models: From Model Averaging to Gradient Sharing](https://arxiv.org/pdf/2002.04930.pdf)
 
-[Privacy Threats Against Federated Matrix Factorization](https://arxiv.org/pdf/2007.01587.pdf)
+- [Privacy Threats Against Federated Matrix Factorization](https://arxiv.org/pdf/2007.01587.pdf)
 
 ### GBDT (Gradient Boosting Decision Trees)
 
-[Practical Federated Gradient Boosting Decision Trees. AAAI 2020.](https://arxiv.org/pdf/1911.04206.pdf)
+- [Practical Federated Gradient Boosting Decision Trees. AAAI 2020.](https://arxiv.org/pdf/1911.04206.pdf)
 
-[Federated Extra-Trees with Privacy Preserving](https://arxiv.org/pdf/2002.07323.pdf)
+- [Federated Extra-Trees with Privacy Preserving](https://arxiv.org/pdf/2002.07323.pdf)
 
-[SecureGBM: Secure Multi-Party Gradient Boosting](https://arxiv.org/pdf/1911.11997.pdf)
+- [SecureGBM: Secure Multi-Party Gradient Boosting](https://arxiv.org/pdf/1911.11997.pdf)
 
-[Federated Forest](https://arxiv.org/pdf/1905.10053.pdf)
+- [Federated Forest](https://arxiv.org/pdf/1905.10053.pdf)
 
-[The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost](https://arxiv.org/pdf/1907.07157.pdf)
+- [The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost](https://arxiv.org/pdf/1907.07157.pdf)
 
 ### Other Model
-[Privacy Preserving QoE Modeling using Collaborative Learning](https://arxiv.org/pdf/1906.09248.pdf)
+- [Privacy Preserving QoE Modeling using Collaborative Learning](https://arxiv.org/pdf/1906.09248.pdf)

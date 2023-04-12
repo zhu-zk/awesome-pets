@@ -67,8 +67,8 @@
 - [Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates](https://arxiv.org/pdf/1803.01498.pdf)
 
 ## Fairness
-[Fair Resource Allocation in Federated Learning. ICLR 2020.](https://arxiv.org/pdf/1905.10497.pdf)
+- [Fair Resource Allocation in Federated Learning. ICLR 2020.](https://arxiv.org/pdf/1905.10497.pdf)
 
-[Hierarchically Fair Federated Learning](https://arxiv.org/pdf/2004.10386.pdf)
+- [Hierarchically Fair Federated Learning](https://arxiv.org/pdf/2004.10386.pdf)
 
-[Towards Fair and Privacy-Preserving Federated Deep Models](https://arxiv.org/pdf/1906.01167.pdf)
+- [Towards Fair and Privacy-Preserving Federated Deep Models](https://arxiv.org/pdf/1906.01167.pdf)
