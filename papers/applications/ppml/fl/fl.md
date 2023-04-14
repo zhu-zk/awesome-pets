@@ -8,8 +8,7 @@ Federated learning is a popular distributed machine learning framework in which 
 5. [Incentive](incentive.md)
 6. [Vertical FL](vertical.md)
 7. [Boosting](boosting.md)
-8. [Attack and Defense](attack_defense.md)
-9. [Application](application.md)
+8. [Application](application.md)
 
 <!-- ## Table of Contents
 - [Efficiency challenge](#efficiency-challenge)
