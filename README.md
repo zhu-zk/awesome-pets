@@ -32,7 +32,7 @@ Private Set/Database Operations
 Protecting training/inference data
 
 1. [PPML based on Crypto](papers/applications/ppml/ppml_crypto.md)
-2. [Ferderated Learning (FL)](papers/applications/ppml/fl.md)
+2. [Ferderated Learning (FL)](papers/applications/ppml/fl/fl.md)
 3. [Split Learning (SL)](papers/applications/ppml/sl.md)
 
 Attacks on machine learning system

@@ -1,11 +1,13 @@
-# Split Learning
-Split learning~(SL) is a prevailing distributed deep learning framework where the neural networks are split into embedding model and loss-computing model which are owned by different data-owners. However, SL faces many challenges, such as efficiency, accuracy, security, fairness challenges, etc.
+# Federated Learning
+Federated learning is a popular distributed machine learning framework in which clients aggregate their learned models without sharing their individual data under privacy-preserving consideration. However, FL is still facing many challenges, among which efficiency, accuracy, security and fairness challenges are the main problems that hinder the development of FL.
 
 ## Table of Contents
 - [Efficiency challenge](#efficiency-challenge)
   * [Computation efficiency](#Computation) 
   * [Communication efficiency](#Communication)
 - [Accuracy challenge](#accuracy-challenge)
+  * [Non-IID problem](#noniid)
+  * [Convergence problem](#convergence)
 - [Security challenge](#security-challenge)
   * [Privacy](#privacy)
   * [Robustness](#robustness)
@@ -19,6 +21,10 @@ Split learning~(SL) is a prevailing distributed deep learning framework where th
 ### Communication
 
 ## Accuracy challenge
+
+### Non-IID problem
+
+### Convergence problem
 
 ## Security challenge
 
