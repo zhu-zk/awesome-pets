@@ -12,7 +12,7 @@ ECAI 2022,  [eprint](https://arxiv.org/pdf/2005.11903.pdf)
 
 - Efficient function queryable and privacy preserving data aggregation scheme in smart grid  
 Yu Zhan, Liguo Zhou, Baocang Wang, Pu Duan, Benyu Zhang  
-IEEE Transactions on PDS 2022, [eprint](https://ieeexplore.ieee.org/abstract/document/9720954/authors#authors)
+IEEE TPDS 2022, [eprint](https://ieeexplore.ieee.org/abstract/document/9720954/authors#authors)
 
 - MDOPE: Efficient multi-dimensional data order preserving encryption scheme  
 Yu Zhan, Danfeng Shen, Pu Duan, Benyu Zhang, Zhiyong Hong, Baocang Wang  
@@ -20,7 +20,7 @@ Information Sciences 2022, [eprint](https://www.sciencedirect.com/science/articl
 
 - FedFAIM: A Model Performance-based FairIncentive Mechanism for Federated Learning  
 Zhuan Shi, Lan Zhang, Zhenyu Yao, Lingjuan Lyu, Cen Chen, Li Wang, Junhao Wang, Xiang-Yang Li  
-IEEE transactions on big data 2022, [eprint](https://ieeexplore.ieee.org/document/9797864/authors#authors)
+IEEE Transactions on Big Data 2022, [eprint](https://ieeexplore.ieee.org/document/9797864/authors#authors)
 
 - Private, Efficient, Accurate: Protecting models trained by multi-party learning with Differential Privacy  
 Wenqiang Ruan, Mingxin Xu, Wenjing Fang, Li Wang, Lei Wang, Weili Han  
