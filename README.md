@@ -8,7 +8,7 @@ Please feel free to open a pull request.
 
 ### Tools and Primitives
 
-Cryptography-based techniques. If you are a beginner in cryptography, please checkout our [[crypto-for-beginners]](tutorials/crypto-beginner.md)
+Cryptography-based techniques. If you are a beginner in cryptography, and wants to learn about the theory or applications of crypto, please also checkout our [[crypto-for-beginners]](tutorials/crypto-beginner.md) list.
 
 1. [Secure Multi-Party Computation (MPC)](papers/tools/mpc.md)  (Contributors: [@jamie-cui](https://www.github.com/jamie-cui))
 2. [Zero-Knowledge Proof (ZKP)](papers/tools/zkp.md) (Contributors: [@xfap](https://www.github.com/xfap))
