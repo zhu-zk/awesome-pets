@@ -56,4 +56,3 @@ We're sorry some of the materials are avaliable only in Chinese, we'll try to pr
 ## Contributes
 
 Please read the contribution guidelines first.
-[[id:a99f448a-cfc8-4f52-b5ab-bfccc9c846eb][YACL]]
