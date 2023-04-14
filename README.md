@@ -37,7 +37,7 @@ Protecting training/inference data
 
 Attacks on machine learning system
 
-1. [General attacks and defense](papers/applications/aml/poison.md) (Contributors: [@zhangxingmeng](https://www.github.com/zhangxingmeng))
+1. [General attacks and defense](papers/applications/aml/attack_defense.md) (Contributors: [@zhangxingmeng](https://www.github.com/zhangxingmeng))
 
 Multimedia Privacy and Security
 
