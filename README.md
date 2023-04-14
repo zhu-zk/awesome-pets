@@ -10,7 +10,7 @@ Please feel free to open a pull request.
 
 Cryptography-based techniques
 
-1. [Secure Multi-Party Computation (MPC)](papers/tools/mpc.md) (Contributors: [@jamie-cui](https://www.github.com/jamie-cui))
+1. [Secure Multi-Party Computation (MPC)](papers/tools/mpc.md)  (Contributors: [@jamie-cui](https://www.github.com/jamie-cui))
 2. [Zero-Knowledge Proof (ZKP)](papers/tools/zkp.md) (Contributors: [@xfap](https://www.github.com/xfap))
 
 Anonymity-related techniques
