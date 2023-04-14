@@ -19,7 +19,7 @@ Anonymity-related techniques
 
 Hardware-based solutions
 
-1. [Trusted Execution Environment (TEE)](papers/tools/tee.md) (Contributors: [@tpppppub](https://www.github.com/tpppppub))
+1. [Trusted Execution Environment (TEE)](papers/tools/tee.md) 
 
 ### Applications of PETs
 
