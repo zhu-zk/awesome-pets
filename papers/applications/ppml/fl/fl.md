@@ -1,7 +1,17 @@
 # Federated Learning
 Federated learning is a popular distributed machine learning framework in which clients aggregate their learned models without sharing their individual data under privacy-preserving consideration. However, FL is still facing many challenges, among which efficiency, accuracy, security and fairness challenges are the main problems that hinder the development of FL.
 
-## Table of Contents
+1. [Survey](survey.md)
+3. [Datasets](datasets.md)
+2. [Efficiency](efficiency.md)
+4. [Effectiveness](effectiveness.md)
+5. [Incentive](incentive.md)
+6. [Vertical FL](vertical.md)
+7. [Boosting](boosting.md)
+8. [Attack and Defense](attack_defense.md)
+9. [Application](application.md)
+
+<!-- ## Table of Contents
 - [Efficiency challenge](#efficiency-challenge)
   * [Computation efficiency](#Computation) 
   * [Communication efficiency](#Communication)
@@ -35,4 +45,4 @@ Federated learning is a popular distributed machine learning framework in which 
 
 ### Incentive mechanism
 
-### Others
+### Others -->
