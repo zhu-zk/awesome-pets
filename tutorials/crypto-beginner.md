@@ -1,6 +1,6 @@
 # Cryptography for Beginners
 
-Note: this repo is still under-construction 🚧
+Warning: this repo is still under-construction 🚧.
 
 Other awesome lists:
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography): include theory, tools, frameworks, libs for crypto.
