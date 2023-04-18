@@ -36,6 +36,7 @@
 
 - [FedVision: An Online Visual Object Detection Platform Powered by Federated Learning](https://arxiv.org/pdf/2001.06202.pdf)
 
+
 ## Health Care: 
 - [Multi-Institutional Deep Learning Modeling Without Sharing Patient Data: A Feasibility Study on Brain Tumor Segmentation](https://arxiv.org/pdf/1810.04304.pdf)
 
@@ -150,18 +151,22 @@ Keywords: Split Learning + Sparsification
 
 - [Towards Federated Graph Learning for Collaborative Financial Crimes Detection](https://arxiv.org/pdf/1909.12946.pdf)
 
+
 ## Smart City
 - [Cloud-based Federated Boosting for Mobile Crowdsensing](https://arxiv.org/pdf/2005.05304.pdf)
 
 - [Exploiting Unlabeled Data in Smart Cities using Federated Learning](https://arxiv.org/pdf/2001.04030.pdf)
+
 
 ## Robotics
 - [Federated Imitation Learning: A Privacy Considered Imitation Learning Framework for Cloud Robotic Systems with Heterogeneous Sensor Data](https://arxiv.org/pdf/1909.00895.pdf)
 
 - [Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems](https://arxiv.org/pdf/1901.06455.pdf)
 
+
 ## Networking
 - [A Federated Learning Approach for Mobile Packet Classification](https://arxiv.org/pdf/1907.13113.pdf)
+
 
 ## Blockchain
 - [Blockchained On-Device Federated Learning](https://arxiv.org/pdf/1808.03949.pdf)
@@ -180,6 +185,7 @@ Keywords: Split Learning + Sparsification
 - [Federated Multi-task Hierarchical Attention Model for Sensor Analytics](https://arxiv.org/pdf/1905.05142.pdf)
 
 - [DÏoT: A Federated Self-learning Anomaly Detection System for IoT](https://arxiv.org/pdf/1804.07474.pdf)
+
 
 ### Graph Neural Networks
 
@@ -221,13 +227,14 @@ Keywords: Split Learning + Sparsification
 
 - [Subgraph Federated Learning with Missing Neighbor Generation](https://arxiv.org/pdf/2106.13430)
 
+
 ### Federated Learning on Knowledge Graphs
 
-[FedE: Embedding Knowledge Graphs in Federated Setting](https://arxiv.org/pdf/2010.12882)
+- [FedE: Embedding Knowledge Graphs in Federated Setting](https://arxiv.org/pdf/2010.12882)
 
-[Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty](https://arxiv.org/pdf/2011.11369)
+- [Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty](https://arxiv.org/pdf/2011.11369)
 
-[Federated Knowledge Graphs Embedding](https://arxiv.org/pdf/2105.07615)
+- [Federated Knowledge Graphs Embedding](https://arxiv.org/pdf/2105.07615)
 
 
 ### Generative Models (GAN, Bayesian Generative Models, etc)
@@ -246,9 +253,11 @@ Citation: 0
 
 - [GRAFFL: Gradient-free Federated Learning of a Bayesian Generative Model](https://arxiv.org/pdf/1910.08489.pdf)
 
+
 ### VAE (Variational Autoencoder)
 
 - [(VAE) An On-Device Federated Learning Approach for Cooperative Anomaly Detection](https://arxiv.org/pdf/2002.12301.pdf)
+
 
 ### MF (Matrix Factorization)
 
@@ -257,6 +266,7 @@ Citation: 0
 - [(Clustering) Federated Clustering via Matrix Factorization Models: From Model Averaging to Gradient Sharing](https://arxiv.org/pdf/2002.04930.pdf)
 
 - [Privacy Threats Against Federated Matrix Factorization](https://arxiv.org/pdf/2007.01587.pdf)
+
 
 ### GBDT (Gradient Boosting Decision Trees)
 
@@ -269,6 +279,7 @@ Citation: 0
 - [Federated Forest](https://arxiv.org/pdf/1905.10053.pdf)
 
 - [The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost](https://arxiv.org/pdf/1907.07157.pdf)
+
 
 ### Other Model
 - [Privacy Preserving QoE Modeling using Collaborative Learning](https://arxiv.org/pdf/1906.09248.pdf)
