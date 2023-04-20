@@ -5,11 +5,11 @@ Federated Learning is a decentralized machine learning method that utilizes dist
 **This folder aims to stay up-to-date with the latest developments in federated learning research**
 
 ## Subjects
-- [Survey](./federatedlearning/Survey.md)
-- [Efficiency](./federatedlearning/Efficiency.md)
-- [Effectiveness](./federatedlearning/Effectiveness.md)
-- [IncentiveMechanism](./federatedlearning/Incentivemechanism.md)
-- [Boosting](./federatedlearning/Boosting.md)
-- [Attack&Defence](./federatedlearning/AttackDefense.md)
-- [VerticalFL](./federatedlearning/VerticalFL.md)
-- [Datasets](./federatedlearning/Datasets.md)
+- [Survey](./federatedlearning/survey.md)
+- [Efficiency](./federatedlearning/efficiency.md): Computation,Communication,Quantization
+- [Effectiveness](./federatedlearning/effectiveness.md): Non_IID, Accuracy challenge, Convergence, Robustness
+- [IncentiveMechanism](./federatedlearning/incentive.md)
+- [Boosting](./federatedlearning/boosting.md)
+- [Attack&Defence](./federatedlearning/attack_defense.md)
+- [VerticalFL](./federatedlearning/vertical.md)
+- [Datasets](./federatedlearning/datasets.md)

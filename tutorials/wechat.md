@@ -1,57 +1,22 @@
-1. 私有信息检索（PIR）及其应用场景  
-   珊竹，[[文章链接]](https://mp.weixin.qq.com/s/Vf5AFep2JKztXpOt95WW8g)
-   
-2. 隐私求交（PSI）及其应用场景  
-   珊竹，[[文章链接]](https://mp.weixin.qq.com/s/mJex5FXEORO6VjBOVi7JfQ)
-   
-3. 非平衡隐私集合求交（Unbalanced PSI）协议介绍  
-   常骏，[[文章链接]](https://mp.weixin.qq.com/s/TRPHMWUD3VKpZPzLFqnJXA)
-   
-4. AAAI 2022 频域隐私保护人脸识别（PPFR-FD）  
-   九军, [[文章链接（上）]](https://mp.weixin.qq.com/s/sz5hzjxpQcRZui7C8PanGA) [[文章链接（下）]](https://mp.weixin.qq.com/s/wLQAScgaeh1c7vbvZM2WdQ)
-   
-5. 使用LOCAL BATCH NORMALIZATION方法解决Non-iid问题  
-   隐语社区，[[文章链接]](https://mp.weixin.qq.com/s/kpAhI5TXpwauRNPVQc4OoQ)
-   
-6. 「复旦大学」和「蚂蚁集团」合作在隐私计算领域提出安全高效新方案！  
-   阮雯强，[[文章链接]](https://mp.weixin.qq.com/s/jgXyBQz0PfHKJKWKh-XrzQ)
-   
-7. 联邦学习之基本方法  
-   郑龙飞，[[文章链接]](https://mp.weixin.qq.com/s/2L5J6Vqotf7Pa7kt5PpM4w)
-   
-8. 联邦学习之通信优化  
-   郑龙飞，[[文章链接]](https://mp.weixin.qq.com/s/uLAJBTs_-e7kuLS-fXZcZQ)
-   
-9. 联邦学习之Non-iid问题  
-   郑龙飞，[[文章链接]](https://mp.weixin.qq.com/s/ZjP-55H19xrVQOOL0eqbeg)
-   
-10. 隐私保护纵向联邦图神经网络  
-    郑龙飞，[[文章链接]](https://mp.weixin.qq.com/s/Vf5AFep2JKztXpOt95WW8g)
-    
-11. 一种度量联邦学习中梯度泄露程度的方法  
-    郑龙飞，[[文章链接]](https://mp.weixin.qq.com/s/TXpFxFru2wsMWD1HG3v2vA)
-    
-12. 一种基于PCG的半诚实PSI协议  
-    张磊，[[文章链接]](https://mp.weixin.qq.com/s/K13XY3TzYk3vbXrWvDTwLA)
-    
-13. 基于同态的隐私信息检索协议-SealPIR介绍  
-    张磊，[[文章链接]](https://mp.weixin.qq.com/s/nE_qm4uVSF1VcsSyfs3ZRA)
-    
-14. 基于秘密分享的混合比特数学运算库-SIRNN介绍  
-    吴豪奇，[[文章链接]](https://mp.weixin.qq.com/s/o35bR0odfLHFUOIWpy1TGw)
-    
-15. USENIX ATC 2022：TEE创新研究成果HyperEnclave  
-    刘双，[[文章链接]](https://mp.weixin.qq.com/s/-Df_nH7t6-abiImPaiPJHg)
-    
-16. Blazing Fast PSI 协议解读  
-    珊竹，[[文章链接]](https://mp.weixin.qq.com/s/ok2HttDBdffbS3vfETCOLg)
-    
-17. 深度学习下的DP-SGD  
-    刘颖婷，[[文章链接]](https://mp.weixin.qq.com/s/8IIn8wWPjLE3MVenuErzOQ)
-    
-18. 两方安全计算ABY2.0 高效的2PC协议  
-    昝晓鹏，[[文章链接]](https://mp.weixin.qq.com/s/UtBZbTcqi33xC9NQqQ8Krw)
-    
-19. 联邦学习之“隐私保护图神经网络”GNN  
-    郑龙飞，[[文章链接]](https://mp.weixin.qq.com/s/2F9_uWR2UUFHiuEaSGaRpw)
-    
+# Team SecretFlow's Posts 
+
+隐语相关paper & 论文笔记
+- 「AAAI 2022｜频域隐私保护人脸识别（PPFR-FD）」  
+原创作者：王莹桂  
+内容简介：本文提出了一种实用的隐私保护频域人脸识别方法，该方法不需要密钥管理，在训练和推断过程中保护隐私。  
+[上篇](https://mp.weixin.qq.com/s/sz5hzjxpQcRZui7C8PanGA)  [下篇](https://mp.weixin.qq.com/s/wLQAScgaeh1c7vbvZM2WdQ)
+
+- 「TheWebConf 2022｜基于差分隐私知识迁移实现的隐私保护跨域推荐」  
+原创作者：鸣悦  
+内容简介：在推荐系统中，为了减少冷启动和数据稀疏性等常见问题的影响，跨域推荐 (Cross Domian Recommendation) 作为一种常见的方法得到了广泛的研究和应用。本文通过创新性地提出一个二阶段隐私保护跨域推荐框架，旨在解决跨域推荐模型中的隐私保护问题。
+[原文](https://mp.weixin.qq.com/s/d3brmq2PjUbm5V2OeYKc6w)
+
+- 「IEEE S&P 2023｜复旦大学&蚂蚁集团合作在隐私计算领域提出安全高效新方案！」  
+原创作者：阮雯强  
+内容简介：论文以安全多方学习为主题，在隐私计算领域提出安全高效新方案：通过提出一个安全差分隐私随机梯度下降协议以及两项对效率与精度的优化方法，以在安全多方学习过程中平衡模型的隐私保障、效率以及精度。  
+[原文](https://mp.weixin.qq.com/s/jgXyBQz0PfHKJKWKh-XrzQ)
+
+- 「IJCAI-ECAI 2022｜针对Node分类任务的隐私保护纵向联邦图神经网络」  
+原创作者：郑龙飞  
+本文提出了VFGNN模型，在保护数据隐私的前提下，完成数据垂直分割场景（特征空间不同、样本空间相同）中的节点分类任务。该算法可以被推广到其它GNN模型。  
+[原文](https://mp.weixin.qq.com/s/0-II0_zWzV31RqjzgESPFw)
