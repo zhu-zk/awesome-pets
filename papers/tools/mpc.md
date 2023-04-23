@@ -1,6 +1,6 @@
 # Secure Multi-Party Computation (MPC)
 
-![](https://badgen.net/badge/:update-to/:Mar-2023/red) ![](https://badgen.net/badge/:papers/:42/blue) 
+![](https://badgen.net/badge/:update-to/:Apr-2023/red) ![](https://badgen.net/badge/:papers/:48/blue) 
 
 > "The design of scure protocols that implement arbitrarily desired functionalities is a major part of mordern cryptography."
 > -- Foundation of Cryptography, Volumn 2, Oded Goldreich. 
@@ -22,6 +22,9 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 ## Offline Techniques
 
 ### Oblivious transfer
+- Endemic Oblivious Transfer via Random Oracles, Revisited  
+  *Zhelei Zhou, Bingsheng Zhang, Hong-Sheng Zhou, Kui Ren*  
+  EuroCrypt 2023, [eprint](https://eprint.iacr.org/2022/1525), ZZZR23  
 
 - SoftSpokenOT: Quieter OT Extension from Small-Field Silent VOLE in the Minicrypt Model  
   *Lawrence Roy*  
@@ -39,6 +42,10 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
   *Ian McQuoid, Mike Rosulek, Lawrence Roy*  
   AsiaCrypt 2021, [eprint](https://eprint.iacr.org/2021/682), MRR21
 
+- Efficient and Round-Optimal Oblivious Transfer and Commitment with Adaptive Security  
+  *Ran Canetti, Pratik Sarkar, Xiao Wang*  
+  AsiaCrypt 2020, [eprint](https://eprint.iacr.org/2020/545), CSW20  
+
 - Efficient Two-Round OT Extension and Silent Non-Interactive Secure Computation  
   *Elette Boyle, Geoffroy Couteau, Niv Gilboa, Yuval Ishai, Lisa Kohl, Peter Rindal, Peter Scholl*  
   CCS 2019, [eprint](https://eprint.iacr.org/2019/1159), BCGI+19 (with Peter Rindal)
@@ -50,6 +57,10 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 - Efficient Pseudorandom Correlation Generators: Silent OT Extension and More  
   *Elette Boyle, Geoffroy Couteau, Niv Gilboa, Yuval Ishai, Lisa Kohl, Peter Scholl*  
   Crypto 2019, [eprint](https://eprint.iacr.org/2019/448), BCGI+19 (without Peter Rindal)
+
+- Equational Security Proofs of Oblivious Transfer Protocols
+  *Baiyu Li, Daniele Micciancio*  
+  PKC 2018, [eprint](https://eprint.iacr.org/2016/624), LM18  
 
 - Actively Secure 1-out-of-N OT Extension with Application to Private Set Intersection  
   *Michele Orrù, Emmanuela Orsini, Peter Scholl*  
@@ -67,6 +78,10 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
   *Gilad Asharov, Yehuda Lindell, Thomas Schneider, Michael Zohner*  
   CCS 2013, [eprint](https://eprint.iacr.org/2013/552), ALSZ13
   
+- A Framework for Efficient and Composable Oblivious Transfer  
+  *Chris Peikert, Vinod Vaikuntanathan, Brent Waters*  
+  Crypto 2008, [eprint](https://eprint.iacr.org/2007/348), PVW08  
+
 - Extending Oblivious Transfers Efficiently  
   *Yuval Ishai, Joe Kilian, Kobbi Nissim, Erez Petrank*  
   Crypto 2003, [eprint](https://www.iacr.org/archive/crypto2003/27290145/27290145.pdf), IKNP03
@@ -76,6 +91,9 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
   STOC 1999, [eprint](https://dl.acm.org/doi/pdf/10.1145/301250.301312), NP99
 
 ### vector Oblivious Linear Evaluation
+- Actively Secure Arithmetic Computation and VOLE with Constant Computational Overhead  
+  *Benny Applebaum, Niv Konstantini*  
+  EuroCrypt 2023, [eprint](https://eprint.iacr.org/2023/270), AK23  
 
 - Two-Round Oblivious Linear Evaluation from Learning with Errors  
 	*Pedro Branco, Nico Do ̈ttling, Paulo Mateus*  
@@ -105,6 +123,10 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
   *Elette Boyle, Geoffroy Couteau, Niv Gilboa, Yuval Ishai*  
   CCS 2018, [eprint](https://eprint.iacr.org/2019/273), BCGI18
   
+- Secure Arithmetic Computation with Constant Computational Overhead  
+  *Benny Applebaum, Ivan Damgård, Yuval Ishai, Michael Nielsen, Lior Zichron*  
+  Crypto 2017, [eprint](https://eprint.iacr.org/2017/617), ADI+17  
+
 - Maliciously secure oblivious linear function evaluation with constant overhead  
   *Satrajit Ghosh, Jesper Buus Nielsen, Tobias Nilges*  
   AsiaCrypt 2017, [eprint](https://eprint.iacr.org/2017/409), GNN17
