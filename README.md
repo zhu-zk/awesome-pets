@@ -56,3 +56,10 @@ We're sorry some of the materials are avaliable only in Chinese, we'll try to pr
 ## Contributes
 
 Please read the contribution guidelines first.
+
+We thank all the following constributers:
+
+<a href="https://github.com/secretflow/secretflow/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=secretflow/secretflow", width=500 />
+</a>
+
