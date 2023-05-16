@@ -1,4 +1,4 @@
-## Type of change
+# Type of change
 
 - [ ] Add new papers (Please tell us why you think this paper is awesome!)
 - [ ] Fix the category of an existing paper/papers (Please tell us the reasons)
