@@ -8,14 +8,15 @@ Please feel free to open a pull request.
 
 ### Applied Cryptography
 
-This section covers cryptographic techniques and protocols. For beginners interested in learning cryptography fundamentals, please refer to our [[crypto-for-beginners]](tutorials/crypto-beginner.md) list.
+This section covers cryptographic techniques and protocols. For beginners interested in learning cryptography fundamentals, please refer to our [crypto-for-beginners](tutorials/crypto-beginner.md) list.
 
 1. [Secure Multi-Party Computation (MPC)](cryptography/mpc.md)
 2. [Zero-Knowledge Proof (ZKP)](cryptography/zkp.md)
-3. [Homomorphic Encryption (HE)](cryptography/HE.md)
-4. [Private Set Intersection (PSI)](cryptography/PSI.md)
-5. [Private Information Retrieval (PIR)](cryptography/PIR.md)
-6. [Private Set Operation (PSO)](cryptography/PSO.md)
+3. [Homomorphic Encryption (HE)](cryptography/he.md)
+4. [Private Set Intersection (PSI)](cryptography/psi.md)
+5. [Private Information Retrieval (PIR)](cryptography/pir.md)
+6. [Private Set Operation (PSO)](cryptography/pso.md)
+7. [Post-Quantum Cryptography (PQC)](cryptography/pqc.md)
 
 ### Machine Learning and Security
 
@@ -45,7 +46,7 @@ This section covers hardware-based security solutions.
 
 We're sorry some of the materials are avaliable only in Chinese, we'll try to provide an English version in the future.
 
-1. [Team SecretFlow's Papers](papers/secretflow.md)
+1. [Team SecretFlow's Papers](secretflow.md)
 2. [Team SecretFlow's Talks (on bilibili.com)](tutorials/talks.md)
 3. [Team SecretFlow's Posts (on wechat)](tutorials/posts.md)
 
@@ -56,6 +57,6 @@ Please read the contribution guidelines first.
 We thank all the following contributors:
 
 <a href="https://github.com/secretflow/secretflow/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=secretflow/secretflow", width=500 />
+  <img src="https://contrib.rocks/image?repo=secretflow/secretflow" width="500" />
 </a>
 

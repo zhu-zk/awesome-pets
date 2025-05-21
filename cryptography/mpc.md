@@ -367,5 +367,4 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 
 ## Related awesome lists
 
-
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc)
