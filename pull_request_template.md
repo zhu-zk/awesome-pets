@@ -7,5 +7,3 @@
 **Description**
 
 Please include a summary of the change and the relevant motivation. 
-
-One more thing! Please add [@jamie-cui](https://www.github.com/jamie-cui) as the reviewer for this PR.

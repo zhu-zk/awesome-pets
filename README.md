@@ -6,60 +6,57 @@ Please feel free to open a pull request.
 
 ## Papers
 
-### Tools and Primitives
+### Applied Cryptography
 
-Cryptography-based techniques. If you are a beginner in cryptography, and wants to learn about the theory or applications of crypto, please also checkout our [[crypto-for-beginners]](tutorials/crypto-beginner.md) list.
+This section covers cryptographic techniques and protocols. For beginners interested in learning cryptography fundamentals, please refer to our [crypto-for-beginners](tutorials/crypto-beginner.md) list.
 
-1. [Secure Multi-Party Computation (MPC)](papers/tools/mpc.md)  (Contributors: [@jamie-cui](https://www.github.com/jamie-cui))
-2. [Zero-Knowledge Proof (ZKP)](papers/tools/zkp.md) (Contributors: [@xfap](https://www.github.com/xfap))
+1. [Secure Multi-Party Computation (MPC)](cryptography/mpc.md)
+2. [Zero-Knowledge Proof (ZKP)](cryptography/zkp.md)
+3. [Homomorphic Encryption (HE)](cryptography/he.md)
+4. [Private Set Intersection (PSI)](cryptography/psi.md)
+5. [Private Information Retrieval (PIR)](cryptography/pir.md)
+6. [Private Set Operation (PSO)](cryptography/pso.md)
+7. [Post-Quantum Cryptography (PQC)](cryptography/pqc.md)
 
-Anonymity-related techniques
+### Machine Learning and Security
 
-1. [Differential Privacy (DP)](papers/tools/dp.md) (Contributors: [@yingting6](https://www.github.com/yingting6))
+This section covers security and privacy issues in machine learning systems.
 
-Hardware-based solutions
+1. [Federated Learning](ml_security/fl.md)
+2. [Multimedia Security](ml_security/multimedia/)
+   - [Attack Methods](ml_security/multimedia/attack.md)
+   - [Defense Methods](ml_security/multimedia/defense.md)
+3. [Adversarial Machine Learning](ml_security/aml/)
+4. [Privacy-Preserving Machine Learning](ml_security/ppml/)
 
-1. [Trusted Execution Environment (TEE)](papers/tools/tee.md) 
+### Privacy and Anonymity
 
-### Applications of PETs
+This section focuses on privacy-preserving techniques and anonymization methods.
 
-Private Set/Database Operations
+1. [Differential Privacy](privacy/dp.md)
 
-1. [Private Set Intersection (PSI)](papers/applications/set/psi.md) (Contributors: [@jamie-cui](https://www.github.com/jamie-cui))
-<!-- 2. [Private Set Union (PSU)](papers/psu.md) -->
-<!-- 3. [Private Information Retrival (PIR)](papers/pir.md) -->
+### Hardware Security
 
-Protecting training/inference data
+This section covers hardware-based security solutions.
 
-1. [PPML based on Crypto](papers/applications/ppml/ppml_crypto.md) (Contributors: [@llCurious](https://www.github.com/llCurious))
-2. [Ferderated Learning (FL)](papers/applications/ppml/fl/fl.md) (Contributors: [@zhangxingmeng](https://www.github.com/zhangxingmeng) [@FelixZheng1](https://www.github.com/FelixZheng1))
-<!-- 3. [Split Learning (SL)](papers/applications/ppml/sl.md) (Contributors: [@yingting6](https://www.github.com/yingting6)) -->
-
-Attacks on machine learning system
-
-1. [General attacks and defense](papers/applications/aml/attack_defense.md) (Contributors: [@zhangxingmeng](https://www.github.com/zhangxingmeng))
-
-Multimedia Privacy and Security
-
-1. [Summaries and Talks](papers/applications/multimedia/summary.md) (Contributors: [@XiaoHwei](https://www.github.com/XiaoHwei))
-2. [Attack Methods](papers/applications/multimedia/attack.md) (Contributors: [@XiaoHwei](https://www.github.com/XiaoHwei))
-3. [Defense Methods](papers/applications/multimedia/defense.md) (Contributors: [@XiaoHwei](https://www.github.com/XiaoHwei))
+1. [Trusted Execution Environment (TEE)](hardware/tee.md)
+2. [Trusted Platform Module (TPM)](hardware/tpm.md)
 
 ## Other Resources
 
 We're sorry some of the materials are avaliable only in Chinese, we'll try to provide an English version in the future.
 
-1. [Team SecretFlow's Papers](papers/secretflow.md)
-2. [Team SecretFlow's Talks (on bilibili.com)](tutorials/bilibili.md) 
-3. [Team SecretFlow's Posts (on wechat)](tutorials/wechat.md)
+1. [Team SecretFlow's Papers](secretflow.md)
+2. [Team SecretFlow's Talks (on bilibili.com)](tutorials/talks.md)
+3. [Team SecretFlow's Posts (on wechat)](tutorials/posts.md)
 
 ## Contributes
 
 Please read the contribution guidelines first.
 
-We thank all the following constributers:
+We thank all the following contributors:
 
 <a href="https://github.com/secretflow/secretflow/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=secretflow/secretflow", width=500 />
+  <img src="https://contrib.rocks/image?repo=secretflow/secretflow" width="500" />
 </a>
 
