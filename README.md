@@ -1,6 +1,6 @@
 # awesome-PETs
 
-A curated list of papers and SecretFlow's tutorials on Privacy-Enhancing Technologies (PETs). In this list, we only define and categorie techniques that help maintain the security and privacy of data.
+A curated list of papers, online courses, open source projects and SecretFlow's tutorials on Privacy-Enhancing Technologies (PETs). In this list, we only define and categorie techniques that help maintain the security and privacy of data.
 
 Please feel free to open a pull request.
 
