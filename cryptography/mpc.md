@@ -175,6 +175,10 @@ Note: one paper may be included in several categories (e.g. a paper may introduc
 
 ### Pseudorandom-Correlation Generator
 
+- Efficient Permutation Correlations and Batched Random Access for Two-Party Computation
+  *Stanislav Peceny, Srinivasan Raghuraman, Peter Rindal, Harshal Shah*
+  PKC 2025, [eprint](https://eprint.iacr.org/2024/547), PRRS25
+
 - Correlated Pseudorandomness from the Hardness of Quasi-Abelian Decoding
   *Maxime Bombar, Geoffroy Couteau, Alain Couvreur, Clément Ducros*
   Crypto 2023, [eprint](https://eprint.iacr.org/2023/845), BCCD23
