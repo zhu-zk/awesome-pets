@@ -2,7 +2,7 @@
 
  Remote attestation is a challenge-response protocol between a client (Prover) and a remote host (Verifier) for reporting Prover’s hardware and software configuration (e.g., the internal state of RAM, flash, etc.) to the host. Typically, Verifier initiates the protocol by sending a challenge to a Prover, which needs to measure its own integrity and create a fresh and authentic evidence of being in a trustworthy state. The process of integrity measurement may vary, for instance, it may involve computing an encryption-based MAC or a keyed hash over its memory , or randomly placed verification bits. Such an evidence is then transmitted to Verifier, who is assumed to know all possible reference measurement(s) for Prover that correspond to Prover’s valid (i.e, good or safe) state(s).
 
-![An example of RA protocol ](./images/ra.png)
+![An example of RA protocol ](../images/ra.png)
 
  Prover is assumed to have a trust anchor, which makes sure that the integrity measurement is taken and reported correctly, even if the platform is compromised. The trust anchor helps to establish protected resources (memory, processor, RAM) exclusively for attestation purposes, and, thus, one can say that it divides the Prover ’s platform into a secure and nonsecure worlds. While the latter holds general-purpose code (application/service specific), the secure world is used to safeguard attestation key(s) in protected memory, store and run an immutable RA code securely and atomically. The two parts of the device communicate through a secure gateway.
  
